@@ -1,0 +1,641 @@
+2026-05-25 02:10:45,821  [INFO    ]  ──────────────────────────────────────────────────────────────
+2026-05-25 02:10:45,822  [INFO    ]  JPEG File Carver  |  Arch Technologies Cybersecurity Internship
+2026-05-25 02:10:45,822  [INFO    ]  Source   : \\.\H:
+2026-05-25 02:10:45,822  [INFO    ]  Output   : F:\intern\data recovery\recovered
+2026-05-25 02:10:45,822  [INFO    ]  Min size : 1,024 bytes
+2026-05-25 02:10:45,822  [INFO    ]  Max size : 15 MB  (corrupt-file guard)
+2026-05-25 02:10:45,822  [INFO    ]  ──────────────────────────────────────────────────────────────
+2026-05-25 02:10:49,234  [INFO    ]  Found JFIF header @ offset 0x461806b
+2026-05-25 02:10:49,243  [INFO    ]    ↳ Saved: recovered_0000.jpg  (183,532 bytes)
+2026-05-25 02:10:50,622  [INFO    ]  Found JFIF header @ offset 0x631621d
+2026-05-25 02:10:50,627  [INFO    ]    ↳ Saved: recovered_0001.jpg  (103,511 bytes)
+2026-05-25 02:10:50,648  [INFO    ]  Found JFIF header @ offset 0x63993d5
+2026-05-25 02:10:50,656  [INFO    ]    ↳ Saved: recovered_0002.jpg  (167,313 bytes)
+2026-05-25 02:10:50,953  [INFO    ]  Found JFIF header @ offset 0x6a00b68
+2026-05-25 02:10:50,955  [INFO    ]    ↳ Saved: recovered_0003.jpg  (32,128 bytes)
+2026-05-25 02:11:47,626  [INFO    ]  Found JFIF header @ offset 0x4f8da6b9
+2026-05-25 02:11:47,628  [INFO    ]    ↳ Saved: recovered_0004.jpg  (24,813 bytes)
+2026-05-25 02:12:19,987  [INFO    ]  Found JFIF header @ offset 0x78bab6a1
+2026-05-25 02:12:20,007  [INFO    ]    ↳ Saved: recovered_0005.jpg  (432,498 bytes)
+2026-05-25 02:12:38,932  [INFO    ]  Found EXIF header @ offset 0x9113fb71
+2026-05-25 02:12:38,937  [INFO    ]    ↳ Saved: recovered_0006.jpg  (62,607 bytes)
+2026-05-25 02:12:55,445  [INFO    ]  Found EXIF header @ offset 0xa643c2ea
+2026-05-25 02:12:55,452  [INFO    ]    ↳ Saved: recovered_0007.jpg  (123,099 bytes)
+2026-05-25 02:13:14,930  [INFO    ]  Found JFIF header @ offset 0xbf455ec5
+2026-05-25 02:13:14,932  [INFO    ]    ↳ Saved: recovered_0008.jpg  (24,813 bytes)
+2026-05-25 02:13:26,127  [INFO    ]  Found JFIF header @ offset 0xcd89a52b
+2026-05-25 02:13:26,147  [INFO    ]    ↳ Saved: recovered_0009.jpg  (432,498 bytes)
+2026-05-25 02:14:08,681  [INFO    ]  Found JFIF header @ offset 0x1042f61df
+2026-05-25 02:14:08,687  [INFO    ]    ↳ Saved: recovered_0010.jpg  (105,865 bytes)
+2026-05-25 02:15:03,147  [INFO    ]  Found EXIF header @ offset 0x149c9021a
+2026-05-25 02:15:03,150  [INFO    ]    ↳ Saved: recovered_0011.jpg  (59,011 bytes)
+2026-05-25 02:15:53,244  [INFO    ]  Found JFIF header @ offset 0x18b758411
+2026-05-25 02:15:53,250  [INFO    ]    ↳ Saved: recovered_0012.jpg  (100,146 bytes)
+2026-05-25 02:16:58,609  [INFO    ]  Found EXIF header @ offset 0x1e07fe688
+2026-05-25 02:16:58,613  [INFO    ]    ↳ Saved: recovered_0013.jpg  (75,728 bytes)
+2026-05-25 02:18:52,653  [INFO    ]  Found EXIF header @ offset 0x26c654f69
+2026-05-25 02:18:52,654  [INFO    ]    ↳ Saved: recovered_0014.jpg  (8,091 bytes)
+2026-05-25 02:19:16,868  [INFO    ]  Found EXIF header @ offset 0x2884ec89b
+2026-05-25 02:19:16,873  [INFO    ]    ↳ Saved: recovered_0015.jpg  (96,209 bytes)
+2026-05-25 02:19:39,465  [INFO    ]  Found JFIF header @ offset 0x2a1f7cd79
+2026-05-25 02:19:39,475  [INFO    ]    ↳ Saved: recovered_0016.jpg  (201,417 bytes)
+2026-05-25 02:19:53,314  [INFO    ]  Found EXIF header @ offset 0x2b3b314b8
+2026-05-25 02:19:53,314  [INFO    ]    ↳ Saved: recovered_0017.jpg  (2,306 bytes)
+2026-05-25 02:19:53,859  [INFO    ]  Found JFIF header @ offset 0x2b4607625
+2026-05-25 02:19:53,868  [INFO    ]    ↳ Saved: recovered_0018.jpg  (169,234 bytes)
+2026-05-25 02:21:36,337  [INFO    ]  Found EXIF header @ offset 0x33650f65c
+2026-05-25 02:21:36,342  [INFO    ]    ↳ Saved: recovered_0019.jpg  (62,297 bytes)
+2026-05-25 02:22:15,811  [INFO    ]  Found JFIF header @ offset 0x3686ea724
+2026-05-25 02:22:15,828  [INFO    ]    ↳ Saved: recovered_0020.jpg  (367,920 bytes)
+2026-05-25 02:24:20,930  [INFO    ]  Found JFIF header @ offset 0x4066618c9
+2026-05-25 02:24:20,932  [INFO    ]    ↳ Saved: recovered_0021.jpg  (25,356 bytes)
+2026-05-25 02:25:15,121  [INFO    ]  Found EXIF header @ offset 0x44bb7732e
+2026-05-25 02:25:15,124  [INFO    ]    ↳ Saved: recovered_0022.jpg  (28,174 bytes)
+2026-05-25 02:25:52,643  [INFO    ]  Found JFIF header @ offset 0x47b63678e
+2026-05-25 02:25:52,648  [INFO    ]    ↳ Saved: recovered_0023.jpg  (100,463 bytes)
+2026-05-25 02:26:11,524  [INFO    ]  Found JFIF header @ offset 0x4935d7000
+2026-05-25 02:26:11,525  [INFO    ]    ↳ Saved: recovered_0024.jpg  (13,579 bytes)
+2026-05-25 02:26:53,082  [INFO    ]  Found JFIF header @ offset 0x4c8612000
+2026-05-25 02:26:53,082  [INFO    ]    ↳ Saved: recovered_0025.jpg  (8,442 bytes)
+2026-05-25 02:26:53,095  [INFO    ]  Found JFIF header @ offset 0x4c861b000
+2026-05-25 02:26:53,097  [INFO    ]    ↳ Saved: recovered_0026.jpg  (2,274 bytes)
+2026-05-25 02:29:44,497  [INFO    ]  Found EXIF header @ offset 0x5a291d3a2
+2026-05-25 02:29:44,501  [INFO    ]    ↳ Saved: recovered_0027.jpg  (65,616 bytes)
+2026-05-25 02:31:12,286  [INFO    ]  Found JFIF header @ offset 0x612436fdf
+2026-05-25 02:31:12,289  [INFO    ]    ↳ Saved: recovered_0028.jpg  (48,256 bytes)
+2026-05-25 02:32:30,867  [INFO    ]  Found EXIF header @ offset 0x6763988a0
+2026-05-25 02:32:30,868  [INFO    ]    ↳ Saved: recovered_0029.jpg  (4,141 bytes)
+2026-05-25 02:32:30,869  [INFO    ]  Found EXIF header @ offset 0x6763a0455
+2026-05-25 02:32:30,870  [INFO    ]    ↳ Saved: recovered_0030.jpg  (3,381 bytes)
+2026-05-25 02:32:30,871  [INFO    ]  Found EXIF header @ offset 0x6763a6f33
+2026-05-25 02:32:30,873  [INFO    ]    ↳ Saved: recovered_0031.jpg  (3,376 bytes)
+2026-05-25 02:32:30,874  [INFO    ]  Found EXIF header @ offset 0x6763ada55
+2026-05-25 02:32:30,875  [INFO    ]    ↳ Saved: recovered_0032.jpg  (3,753 bytes)
+2026-05-25 02:32:30,877  [INFO    ]  Found EXIF header @ offset 0x6763b4fa6
+2026-05-25 02:32:30,878  [INFO    ]    ↳ Saved: recovered_0033.jpg  (3,919 bytes)
+2026-05-25 02:32:30,879  [INFO    ]  Found EXIF header @ offset 0x6763bb331
+2026-05-25 02:32:30,880  [INFO    ]    ↳ Saved: recovered_0034.jpg  (3,718 bytes)
+2026-05-25 02:32:30,882  [INFO    ]  Found EXIF header @ offset 0x6763c1dfb
+2026-05-25 02:32:30,883  [INFO    ]    ↳ Saved: recovered_0035.jpg  (3,467 bytes)
+2026-05-25 02:32:30,884  [INFO    ]  Found EXIF header @ offset 0x6763c855c
+2026-05-25 02:32:30,885  [INFO    ]    ↳ Saved: recovered_0036.jpg  (3,921 bytes)
+2026-05-25 02:32:30,886  [INFO    ]  Found EXIF header @ offset 0x6763cef6d
+2026-05-25 02:32:30,886  [INFO    ]    ↳ Saved: recovered_0037.jpg  (4,028 bytes)
+2026-05-25 02:32:30,889  [INFO    ]  Found EXIF header @ offset 0x6763d88b0
+2026-05-25 02:32:30,890  [INFO    ]    ↳ Saved: recovered_0038.jpg  (1,064 bytes)
+2026-05-25 02:32:30,890  [INFO    ]  Found EXIF header @ offset 0x6763dba93
+2026-05-25 02:32:30,891  [INFO    ]    ↳ Saved: recovered_0039.jpg  (1,058 bytes)
+2026-05-25 02:32:30,892  [INFO    ]  Found EXIF header @ offset 0x6763dea66
+2026-05-25 02:32:30,893  [INFO    ]    ↳ Saved: recovered_0040.jpg  (1,290 bytes)
+2026-05-25 02:32:30,894  [INFO    ]  Found EXIF header @ offset 0x6763e25a5
+2026-05-25 02:32:30,894  [INFO    ]    ↳ Saved: recovered_0041.jpg  (1,213 bytes)
+2026-05-25 02:32:30,894  [INFO    ]  Found EXIF header @ offset 0x6763e5656
+2026-05-25 02:32:30,896  [INFO    ]    ↳ Saved: recovered_0042.jpg  (1,160 bytes)
+2026-05-25 02:32:30,897  [INFO    ]  Found EXIF header @ offset 0x6763e89ee
+2026-05-25 02:32:30,898  [INFO    ]    ↳ Saved: recovered_0043.jpg  (4,385 bytes)
+2026-05-25 02:32:30,899  [INFO    ]  Found EXIF header @ offset 0x6763ed40b
+2026-05-25 02:32:30,900  [INFO    ]    ↳ Saved: recovered_0044.jpg  (4,255 bytes)
+2026-05-25 02:32:30,900  [INFO    ]  Found EXIF header @ offset 0x6763f1c2b
+2026-05-25 02:32:30,901  [INFO    ]    ↳ Saved: recovered_0045.jpg  (1,229 bytes)
+2026-05-25 02:32:30,902  [INFO    ]  Found EXIF header @ offset 0x6763f4dd7
+2026-05-25 02:32:30,902  [INFO    ]    ↳ Saved: recovered_0046.jpg  (1,258 bytes)
+2026-05-25 02:32:30,903  [INFO    ]  Found EXIF header @ offset 0x6763f7fbc
+2026-05-25 02:32:30,904  [INFO    ]    ↳ Saved: recovered_0047.jpg  (4,355 bytes)
+2026-05-25 02:32:30,905  [INFO    ]  Found EXIF header @ offset 0x6763fc905
+2026-05-25 02:32:30,905  [INFO    ]    ↳ Saved: recovered_0048.jpg  (3,953 bytes)
+2026-05-25 02:32:30,907  [INFO    ]  Found EXIF header @ offset 0x676402589
+2026-05-25 02:32:30,907  [INFO    ]    ↳ Saved: recovered_0049.jpg  (4,269 bytes)
+2026-05-25 02:32:30,909  [INFO    ]  Found EXIF header @ offset 0x676406de6
+2026-05-25 02:32:30,909  [INFO    ]    ↳ Saved: recovered_0050.jpg  (1,189 bytes)
+2026-05-25 02:32:30,910  [INFO    ]  Found EXIF header @ offset 0x676409e0e
+2026-05-25 02:32:30,911  [INFO    ]    ↳ Saved: recovered_0051.jpg  (1,166 bytes)
+2026-05-25 02:32:30,911  [INFO    ]  Found EXIF header @ offset 0x67640cda4
+2026-05-25 02:32:30,912  [INFO    ]    ↳ Saved: recovered_0052.jpg  (1,103 bytes)
+2026-05-25 02:32:30,913  [INFO    ]  Found EXIF header @ offset 0x67640fcc4
+2026-05-25 02:32:30,914  [INFO    ]    ↳ Saved: recovered_0053.jpg  (1,169 bytes)
+2026-05-25 02:32:30,915  [INFO    ]  Found EXIF header @ offset 0x676412d02
+2026-05-25 02:32:30,916  [INFO    ]    ↳ Saved: recovered_0054.jpg  (1,209 bytes)
+2026-05-25 02:32:30,916  [INFO    ]  Found EXIF header @ offset 0x676416311
+2026-05-25 02:32:30,917  [INFO    ]    ↳ Saved: recovered_0055.jpg  (1,310 bytes)
+2026-05-25 02:32:30,917  [INFO    ]  Found EXIF header @ offset 0x676419513
+2026-05-25 02:32:30,917  [WARNING ]    ↳ File only 928 bytes (min 1024) — skipping
+2026-05-25 02:32:30,919  [INFO    ]  Found EXIF header @ offset 0x67641c777
+2026-05-25 02:32:30,920  [INFO    ]    ↳ Saved: recovered_0056.jpg  (4,182 bytes)
+2026-05-25 02:32:30,920  [INFO    ]  Found EXIF header @ offset 0x676421404
+2026-05-25 02:32:30,921  [INFO    ]    ↳ Saved: recovered_0057.jpg  (1,623 bytes)
+2026-05-25 02:32:30,923  [INFO    ]  Found EXIF header @ offset 0x6764292e0
+2026-05-25 02:32:30,924  [INFO    ]    ↳ Saved: recovered_0058.jpg  (1,594 bytes)
+2026-05-25 02:32:31,794  [INFO    ]  Found EXIF header @ offset 0x677588000
+2026-05-25 02:32:31,795  [INFO    ]    ↳ Saved: recovered_0059.jpg  (2,914 bytes)
+2026-05-25 02:32:31,824  [INFO    ]  Found JFIF header @ offset 0x67761980c
+2026-05-25 02:32:31,825  [WARNING ]    ↳ File only 730 bytes (min 1024) — skipping
+2026-05-25 02:32:31,825  [INFO    ]  Found JFIF header @ offset 0x67761a68c
+2026-05-25 02:32:31,826  [WARNING ]    ↳ File only 841 bytes (min 1024) — skipping
+2026-05-25 02:32:31,826  [INFO    ]  Found JFIF header @ offset 0x67761ac0c
+2026-05-25 02:32:31,827  [WARNING ]    ↳ File only 706 bytes (min 1024) — skipping
+2026-05-25 02:32:31,827  [INFO    ]  Found JFIF header @ offset 0x67761b20c
+2026-05-25 02:32:31,827  [WARNING ]    ↳ File only 701 bytes (min 1024) — skipping
+2026-05-25 02:32:31,827  [INFO    ]  Found JFIF header @ offset 0x67761bc0c
+2026-05-25 02:32:31,827  [WARNING ]    ↳ File only 651 bytes (min 1024) — skipping
+2026-05-25 02:32:31,827  [INFO    ]  Found JFIF header @ offset 0x67761c18c
+2026-05-25 02:32:31,827  [WARNING ]    ↳ File only 663 bytes (min 1024) — skipping
+2026-05-25 02:32:31,828  [INFO    ]  Found JFIF header @ offset 0x67761c74c
+2026-05-25 02:32:31,829  [INFO    ]    ↳ Saved: recovered_0060.jpg  (1,198 bytes)
+2026-05-25 02:32:31,829  [INFO    ]  Found JFIF header @ offset 0x67761cecc
+2026-05-25 02:32:31,829  [WARNING ]    ↳ File only 653 bytes (min 1024) — skipping
+2026-05-25 02:32:31,829  [INFO    ]  Found JFIF header @ offset 0x67761d44c
+2026-05-25 02:32:31,829  [INFO    ]    ↳ Saved: recovered_0061.jpg  (1,161 bytes)
+2026-05-25 02:32:31,831  [INFO    ]  Found JFIF header @ offset 0x67761dbcc
+2026-05-25 02:32:31,831  [WARNING ]    ↳ File only 653 bytes (min 1024) — skipping
+2026-05-25 02:32:31,831  [INFO    ]  Found JFIF header @ offset 0x67761e14c
+2026-05-25 02:32:31,831  [INFO    ]    ↳ Saved: recovered_0062.jpg  (1,687 bytes)
+2026-05-25 02:32:31,832  [INFO    ]  Found JFIF header @ offset 0x67761eb4c
+2026-05-25 02:32:31,832  [WARNING ]    ↳ File only 729 bytes (min 1024) — skipping
+2026-05-25 02:32:31,832  [INFO    ]  Found JFIF header @ offset 0x67761f18c
+2026-05-25 02:32:31,833  [INFO    ]    ↳ Saved: recovered_0063.jpg  (1,259 bytes)
+2026-05-25 02:32:31,833  [INFO    ]  Found JFIF header @ offset 0x67761f98c
+2026-05-25 02:32:31,834  [WARNING ]    ↳ File only 693 bytes (min 1024) — skipping
+2026-05-25 02:32:31,834  [INFO    ]  Found JFIF header @ offset 0x67762020c
+2026-05-25 02:32:31,834  [WARNING ]    ↳ File only 692 bytes (min 1024) — skipping
+2026-05-25 02:32:31,834  [INFO    ]  Found JFIF header @ offset 0x67762078c
+2026-05-25 02:32:31,835  [INFO    ]    ↳ Saved: recovered_0064.jpg  (1,237 bytes)
+2026-05-25 02:32:31,835  [INFO    ]  Found JFIF header @ offset 0x677620f8c
+2026-05-25 02:32:31,836  [INFO    ]    ↳ Saved: recovered_0065.jpg  (1,168 bytes)
+2026-05-25 02:32:31,836  [INFO    ]  Found JFIF header @ offset 0x67762170c
+2026-05-25 02:32:31,836  [WARNING ]    ↳ File only 660 bytes (min 1024) — skipping
+2026-05-25 02:32:31,836  [INFO    ]  Found JFIF header @ offset 0x677621c8c
+2026-05-25 02:32:31,837  [INFO    ]    ↳ Saved: recovered_0066.jpg  (1,171 bytes)
+2026-05-25 02:32:32,430  [INFO    ]  Found EXIF header @ offset 0x678251000
+2026-05-25 02:32:32,431  [INFO    ]    ↳ Saved: recovered_0067.jpg  (2,753 bytes)
+2026-05-25 02:32:32,434  [INFO    ]  Found EXIF header @ offset 0x67825d000
+2026-05-25 02:32:32,434  [INFO    ]    ↳ Saved: recovered_0068.jpg  (2,923 bytes)
+2026-05-25 02:32:32,488  [INFO    ]  Found EXIF header @ offset 0x678377000
+2026-05-25 02:32:32,489  [INFO    ]    ↳ Saved: recovered_0069.jpg  (5,826 bytes)
+2026-05-25 02:32:32,492  [INFO    ]  Found EXIF header @ offset 0x67838b800
+2026-05-25 02:32:32,494  [INFO    ]    ↳ Saved: recovered_0070.jpg  (5,831 bytes)
+2026-05-25 02:32:32,502  [INFO    ]  Found EXIF header @ offset 0x6783b4000
+2026-05-25 02:32:32,503  [INFO    ]    ↳ Saved: recovered_0071.jpg  (3,870 bytes)
+2026-05-25 02:32:51,150  [INFO    ]  Found EXIF header @ offset 0x690237000
+2026-05-25 02:32:51,151  [INFO    ]    ↳ Saved: recovered_0072.jpg  (3,656 bytes)
+2026-05-25 02:32:51,153  [INFO    ]  Found EXIF header @ offset 0x69023d800
+2026-05-25 02:32:51,154  [INFO    ]    ↳ Saved: recovered_0073.jpg  (3,180 bytes)
+2026-05-25 02:32:51,155  [INFO    ]  Found EXIF header @ offset 0x690243800
+2026-05-25 02:32:51,156  [INFO    ]    ↳ Saved: recovered_0074.jpg  (3,755 bytes)
+2026-05-25 02:32:51,157  [INFO    ]  Found EXIF header @ offset 0x69024a800
+2026-05-25 02:32:51,158  [INFO    ]    ↳ Saved: recovered_0075.jpg  (6,618 bytes)
+2026-05-25 02:32:51,160  [INFO    ]  Found EXIF header @ offset 0x690252800
+2026-05-25 02:32:51,161  [INFO    ]    ↳ Saved: recovered_0076.jpg  (3,402 bytes)
+2026-05-25 02:32:51,162  [INFO    ]  Found EXIF header @ offset 0x690258800
+2026-05-25 02:32:51,162  [INFO    ]    ↳ Saved: recovered_0077.jpg  (4,176 bytes)
+2026-05-25 02:32:51,164  [INFO    ]  Found EXIF header @ offset 0x69025f800
+2026-05-25 02:32:51,165  [INFO    ]    ↳ Saved: recovered_0078.jpg  (2,895 bytes)
+2026-05-25 02:32:51,166  [INFO    ]  Found EXIF header @ offset 0x690265000
+2026-05-25 02:32:51,167  [INFO    ]    ↳ Saved: recovered_0079.jpg  (6,708 bytes)
+2026-05-25 02:32:51,169  [INFO    ]  Found EXIF header @ offset 0x69026d000
+2026-05-25 02:32:51,169  [INFO    ]    ↳ Saved: recovered_0080.jpg  (3,381 bytes)
+2026-05-25 02:32:51,171  [INFO    ]  Found EXIF header @ offset 0x690273000
+2026-05-25 02:32:51,171  [INFO    ]    ↳ Saved: recovered_0081.jpg  (3,775 bytes)
+2026-05-25 02:32:51,173  [INFO    ]  Found EXIF header @ offset 0x690279800
+2026-05-25 02:32:51,174  [INFO    ]    ↳ Saved: recovered_0082.jpg  (3,595 bytes)
+2026-05-25 02:32:51,175  [INFO    ]  Found EXIF header @ offset 0x690280000
+2026-05-25 02:32:51,176  [INFO    ]    ↳ Saved: recovered_0083.jpg  (3,496 bytes)
+2026-05-25 02:32:51,178  [INFO    ]  Found EXIF header @ offset 0x690286800
+2026-05-25 02:32:51,180  [INFO    ]    ↳ Saved: recovered_0084.jpg  (6,940 bytes)
+2026-05-25 02:32:51,181  [INFO    ]  Found EXIF header @ offset 0x69028e800
+2026-05-25 02:32:51,182  [INFO    ]    ↳ Saved: recovered_0085.jpg  (3,975 bytes)
+2026-05-25 02:32:51,183  [INFO    ]  Found EXIF header @ offset 0x690295800
+2026-05-25 02:32:51,184  [INFO    ]    ↳ Saved: recovered_0086.jpg  (3,973 bytes)
+2026-05-25 02:32:51,185  [INFO    ]  Found EXIF header @ offset 0x69029c000
+2026-05-25 02:32:51,186  [INFO    ]    ↳ Saved: recovered_0087.jpg  (6,887 bytes)
+2026-05-25 02:32:51,187  [INFO    ]  Found EXIF header @ offset 0x6902a4000
+2026-05-25 02:32:51,189  [INFO    ]    ↳ Saved: recovered_0088.jpg  (3,885 bytes)
+2026-05-25 02:32:51,190  [INFO    ]  Found EXIF header @ offset 0x6902aa800
+2026-05-25 02:32:51,191  [INFO    ]    ↳ Saved: recovered_0089.jpg  (6,454 bytes)
+2026-05-25 02:32:51,193  [INFO    ]  Found EXIF header @ offset 0x6902b2000
+2026-05-25 02:32:51,193  [INFO    ]    ↳ Saved: recovered_0090.jpg  (6,574 bytes)
+2026-05-25 02:32:51,194  [INFO    ]  Found EXIF header @ offset 0x6902b9800
+2026-05-25 02:32:51,195  [INFO    ]    ↳ Saved: recovered_0091.jpg  (7,741 bytes)
+2026-05-25 02:32:51,198  [INFO    ]  Found EXIF header @ offset 0x6902c2800
+2026-05-25 02:32:51,199  [INFO    ]    ↳ Saved: recovered_0092.jpg  (3,718 bytes)
+2026-05-25 02:32:51,200  [INFO    ]  Found EXIF header @ offset 0x6902c9000
+2026-05-25 02:32:51,200  [INFO    ]    ↳ Saved: recovered_0093.jpg  (3,451 bytes)
+2026-05-25 02:32:51,202  [INFO    ]  Found EXIF header @ offset 0x6902cf800
+2026-05-25 02:32:51,203  [INFO    ]    ↳ Saved: recovered_0094.jpg  (6,669 bytes)
+2026-05-25 02:32:51,204  [INFO    ]  Found EXIF header @ offset 0x6902d7000
+2026-05-25 02:32:51,206  [INFO    ]    ↳ Saved: recovered_0095.jpg  (4,289 bytes)
+2026-05-25 02:32:51,207  [INFO    ]  Found EXIF header @ offset 0x6902de000
+2026-05-25 02:32:51,208  [INFO    ]    ↳ Saved: recovered_0096.jpg  (3,496 bytes)
+2026-05-25 02:32:51,209  [INFO    ]  Found EXIF header @ offset 0x6902e4800
+2026-05-25 02:32:51,210  [INFO    ]    ↳ Saved: recovered_0097.jpg  (7,016 bytes)
+2026-05-25 02:32:51,211  [INFO    ]  Found EXIF header @ offset 0x6902ed000
+2026-05-25 02:32:51,212  [INFO    ]    ↳ Saved: recovered_0098.jpg  (7,059 bytes)
+2026-05-25 02:32:51,214  [INFO    ]  Found EXIF header @ offset 0x6902f5000
+2026-05-25 02:32:51,215  [INFO    ]    ↳ Saved: recovered_0099.jpg  (3,532 bytes)
+2026-05-25 02:32:51,216  [INFO    ]  Found EXIF header @ offset 0x6902fb800
+2026-05-25 02:32:51,218  [INFO    ]    ↳ Saved: recovered_0100.jpg  (3,437 bytes)
+2026-05-25 02:32:51,219  [INFO    ]  Found EXIF header @ offset 0x690302000
+2026-05-25 02:32:51,220  [INFO    ]    ↳ Saved: recovered_0101.jpg  (6,365 bytes)
+2026-05-25 02:32:51,221  [INFO    ]  Found EXIF header @ offset 0x690309800
+2026-05-25 02:32:51,222  [INFO    ]    ↳ Saved: recovered_0102.jpg  (7,292 bytes)
+2026-05-25 02:32:51,224  [INFO    ]  Found EXIF header @ offset 0x690311800
+2026-05-25 02:32:51,224  [INFO    ]    ↳ Saved: recovered_0103.jpg  (4,155 bytes)
+2026-05-25 02:32:51,300  [INFO    ]  Found JFIF header @ offset 0x690496d20
+2026-05-25 02:32:51,363  [INFO    ]    ↳ Saved: recovered_0104.jpg  (1,365,181 bytes)
+2026-05-25 02:33:55,922  [INFO    ]  Found EXIF header @ offset 0x6e24cd800
+2026-05-25 02:33:55,923  [INFO    ]    ↳ Saved: recovered_0105.jpg  (4,197 bytes)
+2026-05-25 02:33:55,924  [INFO    ]  Found EXIF header @ offset 0x6e24d5000
+2026-05-25 02:33:55,925  [INFO    ]    ↳ Saved: recovered_0106.jpg  (3,479 bytes)
+2026-05-25 02:33:55,927  [INFO    ]  Found EXIF header @ offset 0x6e24db800
+2026-05-25 02:33:55,929  [INFO    ]    ↳ Saved: recovered_0107.jpg  (3,682 bytes)
+2026-05-25 02:33:55,930  [INFO    ]  Found EXIF header @ offset 0x6e24e2000
+2026-05-25 02:33:55,931  [INFO    ]    ↳ Saved: recovered_0108.jpg  (4,108 bytes)
+2026-05-25 02:33:55,933  [INFO    ]  Found EXIF header @ offset 0x6e24e9000
+2026-05-25 02:33:55,934  [INFO    ]    ↳ Saved: recovered_0109.jpg  (3,256 bytes)
+2026-05-25 02:33:55,935  [INFO    ]  Found EXIF header @ offset 0x6e24ef000
+2026-05-25 02:33:55,936  [INFO    ]    ↳ Saved: recovered_0110.jpg  (4,016 bytes)
+2026-05-25 02:33:55,938  [INFO    ]  Found EXIF header @ offset 0x6e24f6000
+2026-05-25 02:33:55,939  [INFO    ]    ↳ Saved: recovered_0111.jpg  (3,874 bytes)
+2026-05-25 02:33:55,940  [INFO    ]  Found EXIF header @ offset 0x6e24fc800
+2026-05-25 02:33:55,940  [INFO    ]    ↳ Saved: recovered_0112.jpg  (4,281 bytes)
+2026-05-25 02:33:55,942  [INFO    ]  Found EXIF header @ offset 0x6e2504000
+2026-05-25 02:33:55,943  [INFO    ]    ↳ Saved: recovered_0113.jpg  (3,412 bytes)
+2026-05-25 02:33:55,944  [INFO    ]  Found EXIF header @ offset 0x6e2509800
+2026-05-25 02:33:55,945  [INFO    ]    ↳ Saved: recovered_0114.jpg  (3,393 bytes)
+2026-05-25 02:33:55,946  [INFO    ]  Found EXIF header @ offset 0x6e2510000
+2026-05-25 02:33:55,947  [INFO    ]    ↳ Saved: recovered_0115.jpg  (3,759 bytes)
+2026-05-25 02:33:55,948  [INFO    ]  Found EXIF header @ offset 0x6e2515800
+2026-05-25 02:33:55,948  [INFO    ]    ↳ Saved: recovered_0116.jpg  (6,468 bytes)
+2026-05-25 02:33:55,950  [INFO    ]  Found EXIF header @ offset 0x6e251c800
+2026-05-25 02:33:55,951  [INFO    ]    ↳ Saved: recovered_0117.jpg  (3,629 bytes)
+2026-05-25 02:33:55,952  [INFO    ]  Found EXIF header @ offset 0x6e2522000
+2026-05-25 02:33:55,953  [INFO    ]    ↳ Saved: recovered_0118.jpg  (3,320 bytes)
+2026-05-25 02:33:55,954  [INFO    ]  Found EXIF header @ offset 0x6e2528000
+2026-05-25 02:33:55,955  [INFO    ]    ↳ Saved: recovered_0119.jpg  (3,352 bytes)
+2026-05-25 02:33:55,956  [INFO    ]  Found EXIF header @ offset 0x6e252d800
+2026-05-25 02:33:55,958  [INFO    ]    ↳ Saved: recovered_0120.jpg  (3,460 bytes)
+2026-05-25 02:33:55,976  [INFO    ]  Found EXIF header @ offset 0x6e258d000
+2026-05-25 02:33:55,977  [INFO    ]    ↳ Saved: recovered_0121.jpg  (3,868 bytes)
+2026-05-25 02:33:55,979  [INFO    ]  Found EXIF header @ offset 0x6e2593800
+2026-05-25 02:33:55,979  [INFO    ]    ↳ Saved: recovered_0122.jpg  (3,822 bytes)
+2026-05-25 02:33:55,981  [INFO    ]  Found EXIF header @ offset 0x6e259a000
+2026-05-25 02:33:55,981  [INFO    ]    ↳ Saved: recovered_0123.jpg  (3,507 bytes)
+2026-05-25 02:33:55,983  [INFO    ]  Found EXIF header @ offset 0x6e25a0000
+2026-05-25 02:33:55,983  [INFO    ]    ↳ Saved: recovered_0124.jpg  (6,352 bytes)
+2026-05-25 02:33:55,985  [INFO    ]  Found EXIF header @ offset 0x6e25a7000
+2026-05-25 02:33:55,985  [INFO    ]    ↳ Saved: recovered_0125.jpg  (3,772 bytes)
+2026-05-25 02:33:55,987  [INFO    ]  Found EXIF header @ offset 0x6e25ae000
+2026-05-25 02:33:55,988  [INFO    ]    ↳ Saved: recovered_0126.jpg  (3,535 bytes)
+2026-05-25 02:33:55,989  [INFO    ]  Found EXIF header @ offset 0x6e25b4800
+2026-05-25 02:33:55,990  [INFO    ]    ↳ Saved: recovered_0127.jpg  (3,323 bytes)
+2026-05-25 02:33:55,991  [INFO    ]  Found EXIF header @ offset 0x6e25ba000
+2026-05-25 02:33:55,992  [INFO    ]    ↳ Saved: recovered_0128.jpg  (3,560 bytes)
+2026-05-25 02:33:55,993  [INFO    ]  Found EXIF header @ offset 0x6e25c0000
+2026-05-25 02:33:55,994  [INFO    ]    ↳ Saved: recovered_0129.jpg  (6,463 bytes)
+2026-05-25 02:33:56,013  [INFO    ]  Found EXIF header @ offset 0x6e261e800
+2026-05-25 02:33:56,015  [INFO    ]    ↳ Saved: recovered_0130.jpg  (7,317 bytes)
+2026-05-25 02:33:56,016  [INFO    ]  Found EXIF header @ offset 0x6e2626000
+2026-05-25 02:33:56,016  [INFO    ]    ↳ Saved: recovered_0131.jpg  (4,412 bytes)
+2026-05-25 02:33:56,018  [INFO    ]  Found EXIF header @ offset 0x6e262f000
+2026-05-25 02:33:56,018  [INFO    ]    ↳ Saved: recovered_0132.jpg  (3,460 bytes)
+2026-05-25 02:33:56,020  [INFO    ]  Found EXIF header @ offset 0x6e2634800
+2026-05-25 02:33:56,021  [INFO    ]    ↳ Saved: recovered_0133.jpg  (3,551 bytes)
+2026-05-25 02:33:56,022  [INFO    ]  Found EXIF header @ offset 0x6e263b000
+2026-05-25 02:33:56,023  [INFO    ]    ↳ Saved: recovered_0134.jpg  (3,500 bytes)
+2026-05-25 02:33:56,025  [INFO    ]  Found EXIF header @ offset 0x6e2640800
+2026-05-25 02:33:56,026  [INFO    ]    ↳ Saved: recovered_0135.jpg  (3,394 bytes)
+2026-05-25 02:33:56,027  [INFO    ]  Found EXIF header @ offset 0x6e2646000
+2026-05-25 02:33:56,028  [INFO    ]    ↳ Saved: recovered_0136.jpg  (4,027 bytes)
+2026-05-25 02:33:56,030  [INFO    ]  Found EXIF header @ offset 0x6e264e800
+2026-05-25 02:33:56,031  [INFO    ]    ↳ Saved: recovered_0137.jpg  (3,617 bytes)
+2026-05-25 02:33:56,032  [INFO    ]  Found EXIF header @ offset 0x6e2655000
+2026-05-25 02:33:56,033  [INFO    ]    ↳ Saved: recovered_0138.jpg  (3,293 bytes)
+2026-05-25 02:33:56,034  [INFO    ]  Found EXIF header @ offset 0x6e265b000
+2026-05-25 02:33:56,035  [INFO    ]    ↳ Saved: recovered_0139.jpg  (3,684 bytes)
+2026-05-25 02:33:56,037  [INFO    ]  Found EXIF header @ offset 0x6e2661000
+2026-05-25 02:33:56,038  [INFO    ]    ↳ Saved: recovered_0140.jpg  (4,107 bytes)
+2026-05-25 02:33:56,039  [INFO    ]  Found EXIF header @ offset 0x6e2668000
+2026-05-25 02:33:56,039  [INFO    ]    ↳ Saved: recovered_0141.jpg  (3,453 bytes)
+2026-05-25 02:33:56,041  [INFO    ]  Found EXIF header @ offset 0x6e266e000
+2026-05-25 02:33:56,041  [INFO    ]    ↳ Saved: recovered_0142.jpg  (2,900 bytes)
+2026-05-25 02:33:56,042  [INFO    ]  Found EXIF header @ offset 0x6e2673800
+2026-05-25 02:33:56,044  [INFO    ]    ↳ Saved: recovered_0143.jpg  (3,521 bytes)
+2026-05-25 02:33:56,044  [INFO    ]  Found EXIF header @ offset 0x6e2679800
+2026-05-25 02:33:56,044  [INFO    ]    ↳ Saved: recovered_0144.jpg  (3,500 bytes)
+2026-05-25 02:33:56,044  [INFO    ]  Found EXIF header @ offset 0x6e267f800
+2026-05-25 02:33:56,047  [INFO    ]    ↳ Saved: recovered_0145.jpg  (3,516 bytes)
+2026-05-25 02:33:56,049  [INFO    ]  Found EXIF header @ offset 0x6e2685800
+2026-05-25 02:33:56,050  [INFO    ]    ↳ Saved: recovered_0146.jpg  (3,926 bytes)
+2026-05-25 02:33:56,052  [INFO    ]  Found EXIF header @ offset 0x6e268c800
+2026-05-25 02:33:56,053  [INFO    ]    ↳ Saved: recovered_0147.jpg  (3,841 bytes)
+2026-05-25 02:33:56,054  [INFO    ]  Found EXIF header @ offset 0x6e2693000
+2026-05-25 02:33:56,054  [INFO    ]    ↳ Saved: recovered_0148.jpg  (3,849 bytes)
+2026-05-25 02:33:56,057  [INFO    ]  Found EXIF header @ offset 0x6e269a000
+2026-05-25 02:33:56,057  [INFO    ]    ↳ Saved: recovered_0149.jpg  (3,552 bytes)
+2026-05-25 02:33:56,059  [INFO    ]  Found EXIF header @ offset 0x6e26a0000
+2026-05-25 02:33:56,059  [INFO    ]    ↳ Saved: recovered_0150.jpg  (6,860 bytes)
+2026-05-25 02:33:56,061  [INFO    ]  Found EXIF header @ offset 0x6e26a7800
+2026-05-25 02:33:56,062  [INFO    ]    ↳ Saved: recovered_0151.jpg  (3,758 bytes)
+2026-05-25 02:33:56,064  [INFO    ]  Found EXIF header @ offset 0x6e26ae000
+2026-05-25 02:33:56,064  [INFO    ]    ↳ Saved: recovered_0152.jpg  (4,338 bytes)
+2026-05-25 02:33:56,066  [INFO    ]  Found EXIF header @ offset 0x6e26b5000
+2026-05-25 02:33:56,066  [INFO    ]    ↳ Saved: recovered_0153.jpg  (3,896 bytes)
+2026-05-25 02:33:56,068  [INFO    ]  Found EXIF header @ offset 0x6e26bb800
+2026-05-25 02:33:56,069  [INFO    ]    ↳ Saved: recovered_0154.jpg  (4,099 bytes)
+2026-05-25 02:33:56,071  [INFO    ]  Found EXIF header @ offset 0x6e26c2800
+2026-05-25 02:33:56,071  [INFO    ]    ↳ Saved: recovered_0155.jpg  (4,924 bytes)
+2026-05-25 02:33:56,073  [INFO    ]  Found EXIF header @ offset 0x6e26ca000
+2026-05-25 02:33:56,073  [INFO    ]    ↳ Saved: recovered_0156.jpg  (4,247 bytes)
+2026-05-25 02:33:56,075  [INFO    ]  Found EXIF header @ offset 0x6e26d1000
+2026-05-25 02:33:56,075  [INFO    ]    ↳ Saved: recovered_0157.jpg  (3,776 bytes)
+2026-05-25 02:33:56,076  [INFO    ]  Found EXIF header @ offset 0x6e26d7800
+2026-05-25 02:33:56,079  [INFO    ]    ↳ Saved: recovered_0158.jpg  (4,683 bytes)
+2026-05-25 02:33:56,080  [INFO    ]  Found EXIF header @ offset 0x6e26df000
+2026-05-25 02:33:56,081  [INFO    ]    ↳ Saved: recovered_0159.jpg  (4,130 bytes)
+2026-05-25 02:33:56,082  [INFO    ]  Found EXIF header @ offset 0x6e26e5800
+2026-05-25 02:33:56,083  [INFO    ]    ↳ Saved: recovered_0160.jpg  (3,808 bytes)
+2026-05-25 02:33:56,085  [INFO    ]  Found EXIF header @ offset 0x6e26ec000
+2026-05-25 02:33:56,085  [INFO    ]    ↳ Saved: recovered_0161.jpg  (4,016 bytes)
+2026-05-25 02:33:56,087  [INFO    ]  Found EXIF header @ offset 0x6e26f3000
+2026-05-25 02:33:56,087  [INFO    ]    ↳ Saved: recovered_0162.jpg  (3,932 bytes)
+2026-05-25 02:33:56,089  [INFO    ]  Found EXIF header @ offset 0x6e26f9800
+2026-05-25 02:33:56,090  [INFO    ]    ↳ Saved: recovered_0163.jpg  (4,258 bytes)
+2026-05-25 02:33:56,091  [INFO    ]  Found EXIF header @ offset 0x6e2700800
+2026-05-25 02:33:56,092  [INFO    ]    ↳ Saved: recovered_0164.jpg  (3,582 bytes)
+2026-05-25 02:33:56,093  [INFO    ]  Found EXIF header @ offset 0x6e2707000
+2026-05-25 02:33:56,094  [INFO    ]    ↳ Saved: recovered_0165.jpg  (4,104 bytes)
+2026-05-25 02:33:56,096  [INFO    ]  Found EXIF header @ offset 0x6e270e000
+2026-05-25 02:33:56,096  [INFO    ]    ↳ Saved: recovered_0166.jpg  (4,457 bytes)
+2026-05-25 02:33:56,097  [INFO    ]  Found EXIF header @ offset 0x6e2715000
+2026-05-25 02:33:56,100  [INFO    ]    ↳ Saved: recovered_0167.jpg  (4,791 bytes)
+2026-05-25 02:33:56,101  [INFO    ]  Found EXIF header @ offset 0x6e271c800
+2026-05-25 02:33:56,101  [INFO    ]    ↳ Saved: recovered_0168.jpg  (3,796 bytes)
+2026-05-25 02:33:56,103  [INFO    ]  Found EXIF header @ offset 0x6e2723000
+2026-05-25 02:33:56,103  [INFO    ]    ↳ Saved: recovered_0169.jpg  (3,507 bytes)
+2026-05-25 02:33:56,104  [INFO    ]  Found EXIF header @ offset 0x6e2729800
+2026-05-25 02:33:56,105  [INFO    ]    ↳ Saved: recovered_0170.jpg  (3,804 bytes)
+2026-05-25 02:33:56,107  [INFO    ]  Found EXIF header @ offset 0x6e2730000
+2026-05-25 02:33:56,108  [INFO    ]    ↳ Saved: recovered_0171.jpg  (3,793 bytes)
+2026-05-25 02:33:56,110  [INFO    ]  Found EXIF header @ offset 0x6e2736800
+2026-05-25 02:33:56,111  [INFO    ]    ↳ Saved: recovered_0172.jpg  (3,679 bytes)
+2026-05-25 02:33:56,112  [INFO    ]  Found EXIF header @ offset 0x6e273d000
+2026-05-25 02:33:56,113  [INFO    ]    ↳ Saved: recovered_0173.jpg  (4,227 bytes)
+2026-05-25 02:33:56,114  [INFO    ]  Found EXIF header @ offset 0x6e2744000
+2026-05-25 02:33:56,115  [INFO    ]    ↳ Saved: recovered_0174.jpg  (4,425 bytes)
+2026-05-25 02:33:56,116  [INFO    ]  Found EXIF header @ offset 0x6e274b000
+2026-05-25 02:33:56,117  [INFO    ]    ↳ Saved: recovered_0175.jpg  (3,516 bytes)
+2026-05-25 02:33:56,119  [INFO    ]  Found EXIF header @ offset 0x6e2751000
+2026-05-25 02:33:56,119  [INFO    ]    ↳ Saved: recovered_0176.jpg  (4,241 bytes)
+2026-05-25 02:33:56,121  [INFO    ]  Found EXIF header @ offset 0x6e2758000
+2026-05-25 02:33:56,121  [INFO    ]    ↳ Saved: recovered_0177.jpg  (4,441 bytes)
+2026-05-25 02:33:56,123  [INFO    ]  Found EXIF header @ offset 0x6e275f000
+2026-05-25 02:33:56,124  [INFO    ]    ↳ Saved: recovered_0178.jpg  (3,643 bytes)
+2026-05-25 02:33:56,126  [INFO    ]  Found EXIF header @ offset 0x6e2765800
+2026-05-25 02:33:56,126  [INFO    ]    ↳ Saved: recovered_0179.jpg  (4,195 bytes)
+2026-05-25 02:33:56,127  [INFO    ]  Found EXIF header @ offset 0x6e276c800
+2026-05-25 02:33:56,128  [INFO    ]    ↳ Saved: recovered_0180.jpg  (3,723 bytes)
+2026-05-25 02:33:56,129  [INFO    ]  Found EXIF header @ offset 0x6e2773000
+2026-05-25 02:33:56,130  [INFO    ]    ↳ Saved: recovered_0181.jpg  (7,226 bytes)
+2026-05-25 02:33:56,132  [INFO    ]  Found EXIF header @ offset 0x6e277b000
+2026-05-25 02:33:56,133  [INFO    ]    ↳ Saved: recovered_0182.jpg  (3,574 bytes)
+2026-05-25 02:33:56,135  [INFO    ]  Found EXIF header @ offset 0x6e2781800
+2026-05-25 02:33:56,136  [INFO    ]    ↳ Saved: recovered_0183.jpg  (3,951 bytes)
+2026-05-25 02:33:56,137  [INFO    ]  Found EXIF header @ offset 0x6e2788800
+2026-05-25 02:33:56,138  [INFO    ]    ↳ Saved: recovered_0184.jpg  (6,397 bytes)
+2026-05-25 02:33:56,140  [INFO    ]  Found EXIF header @ offset 0x6e2790000
+2026-05-25 02:33:56,141  [INFO    ]    ↳ Saved: recovered_0185.jpg  (4,195 bytes)
+2026-05-25 02:33:56,142  [INFO    ]  Found EXIF header @ offset 0x6e2797000
+2026-05-25 02:33:56,143  [INFO    ]    ↳ Saved: recovered_0186.jpg  (3,933 bytes)
+2026-05-25 02:33:56,144  [INFO    ]  Found EXIF header @ offset 0x6e279d800
+2026-05-25 02:33:56,145  [INFO    ]    ↳ Saved: recovered_0187.jpg  (3,686 bytes)
+2026-05-25 02:33:56,146  [INFO    ]  Found EXIF header @ offset 0x6e27a3800
+2026-05-25 02:33:56,147  [INFO    ]    ↳ Saved: recovered_0188.jpg  (4,025 bytes)
+2026-05-25 02:33:56,149  [INFO    ]  Found EXIF header @ offset 0x6e27a9800
+2026-05-25 02:33:56,149  [INFO    ]    ↳ Saved: recovered_0189.jpg  (3,856 bytes)
+2026-05-25 02:33:56,151  [INFO    ]  Found EXIF header @ offset 0x6e27af000
+2026-05-25 02:33:56,151  [INFO    ]    ↳ Saved: recovered_0190.jpg  (3,866 bytes)
+2026-05-25 02:33:56,153  [INFO    ]  Found EXIF header @ offset 0x6e27b5000
+2026-05-25 02:33:56,153  [INFO    ]    ↳ Saved: recovered_0191.jpg  (6,600 bytes)
+2026-05-25 02:33:56,155  [INFO    ]  Found EXIF header @ offset 0x6e27bc000
+2026-05-25 02:33:56,155  [INFO    ]    ↳ Saved: recovered_0192.jpg  (3,702 bytes)
+2026-05-25 02:33:56,157  [INFO    ]  Found EXIF header @ offset 0x6e27c1800
+2026-05-25 02:33:56,158  [INFO    ]    ↳ Saved: recovered_0193.jpg  (3,857 bytes)
+2026-05-25 02:33:56,159  [INFO    ]  Found EXIF header @ offset 0x6e27c8000
+2026-05-25 02:33:56,160  [INFO    ]    ↳ Saved: recovered_0194.jpg  (3,633 bytes)
+2026-05-25 02:33:56,161  [INFO    ]  Found EXIF header @ offset 0x6e27cf800
+2026-05-25 02:33:56,162  [INFO    ]    ↳ Saved: recovered_0195.jpg  (3,627 bytes)
+2026-05-25 02:33:56,164  [INFO    ]  Found EXIF header @ offset 0x6e27d6800
+2026-05-25 02:33:56,164  [INFO    ]    ↳ Saved: recovered_0196.jpg  (3,387 bytes)
+2026-05-25 02:33:56,166  [INFO    ]  Found EXIF header @ offset 0x6e27dc000
+2026-05-25 02:33:56,166  [INFO    ]    ↳ Saved: recovered_0197.jpg  (6,380 bytes)
+2026-05-25 02:33:56,168  [INFO    ]  Found EXIF header @ offset 0x6e27e3000
+2026-05-25 02:33:56,168  [INFO    ]    ↳ Saved: recovered_0198.jpg  (3,597 bytes)
+2026-05-25 02:33:56,169  [INFO    ]  Found EXIF header @ offset 0x6e27e8800
+2026-05-25 02:33:56,171  [INFO    ]    ↳ Saved: recovered_0199.jpg  (3,239 bytes)
+2026-05-25 02:33:56,172  [INFO    ]  Found EXIF header @ offset 0x6e27ee800
+2026-05-25 02:33:56,173  [INFO    ]    ↳ Saved: recovered_0200.jpg  (3,259 bytes)
+2026-05-25 02:33:56,175  [INFO    ]  Found EXIF header @ offset 0x6e27f5000
+2026-05-25 02:33:56,176  [INFO    ]    ↳ Saved: recovered_0201.jpg  (4,418 bytes)
+2026-05-25 02:33:56,177  [INFO    ]  Found EXIF header @ offset 0x6e27fb000
+2026-05-25 02:33:56,177  [INFO    ]    ↳ Saved: recovered_0202.jpg  (6,940 bytes)
+2026-05-25 02:33:56,179  [INFO    ]  Found EXIF header @ offset 0x6e2802000
+2026-05-25 02:33:56,179  [INFO    ]    ↳ Saved: recovered_0203.jpg  (3,648 bytes)
+2026-05-25 02:33:56,181  [INFO    ]  Found EXIF header @ offset 0x6e2807800
+2026-05-25 02:33:56,182  [INFO    ]    ↳ Saved: recovered_0204.jpg  (3,824 bytes)
+2026-05-25 02:33:56,183  [INFO    ]  Found EXIF header @ offset 0x6e280d800
+2026-05-25 02:33:56,184  [INFO    ]    ↳ Saved: recovered_0205.jpg  (3,109 bytes)
+2026-05-25 02:33:56,185  [INFO    ]  Found EXIF header @ offset 0x6e2812800
+2026-05-25 02:33:56,186  [INFO    ]    ↳ Saved: recovered_0206.jpg  (3,380 bytes)
+2026-05-25 02:33:56,187  [INFO    ]  Found EXIF header @ offset 0x6e2818000
+2026-05-25 02:33:56,187  [INFO    ]    ↳ Saved: recovered_0207.jpg  (3,557 bytes)
+2026-05-25 02:33:56,190  [INFO    ]  Found EXIF header @ offset 0x6e281e000
+2026-05-25 02:33:56,190  [INFO    ]    ↳ Saved: recovered_0208.jpg  (6,859 bytes)
+2026-05-25 02:33:56,192  [INFO    ]  Found EXIF header @ offset 0x6e2826000
+2026-05-25 02:33:56,193  [INFO    ]    ↳ Saved: recovered_0209.jpg  (3,601 bytes)
+2026-05-25 02:33:56,194  [INFO    ]  Found EXIF header @ offset 0x6e282c800
+2026-05-25 02:33:56,195  [INFO    ]    ↳ Saved: recovered_0210.jpg  (7,036 bytes)
+2026-05-25 02:33:56,197  [INFO    ]  Found EXIF header @ offset 0x6e2834800
+2026-05-25 02:33:56,197  [INFO    ]    ↳ Saved: recovered_0211.jpg  (3,095 bytes)
+2026-05-25 02:33:56,199  [INFO    ]  Found EXIF header @ offset 0x6e283a000
+2026-05-25 02:33:56,199  [INFO    ]    ↳ Saved: recovered_0212.jpg  (6,292 bytes)
+2026-05-25 02:33:56,201  [INFO    ]  Found EXIF header @ offset 0x6e2841000
+2026-05-25 02:33:56,202  [INFO    ]    ↳ Saved: recovered_0213.jpg  (6,706 bytes)
+2026-05-25 02:33:56,204  [INFO    ]  Found EXIF header @ offset 0x6e2848800
+2026-05-25 02:33:56,205  [INFO    ]    ↳ Saved: recovered_0214.jpg  (4,662 bytes)
+2026-05-25 02:33:56,206  [INFO    ]  Found EXIF header @ offset 0x6e284f800
+2026-05-25 02:33:56,207  [INFO    ]    ↳ Saved: recovered_0215.jpg  (4,701 bytes)
+2026-05-25 02:33:56,209  [INFO    ]  Found EXIF header @ offset 0x6e2856800
+2026-05-25 02:33:56,210  [INFO    ]    ↳ Saved: recovered_0216.jpg  (6,994 bytes)
+2026-05-25 02:33:56,211  [INFO    ]  Found EXIF header @ offset 0x6e285e800
+2026-05-25 02:33:56,211  [INFO    ]    ↳ Saved: recovered_0217.jpg  (3,946 bytes)
+2026-05-25 02:33:56,212  [INFO    ]  Found EXIF header @ offset 0x6e2865800
+2026-05-25 02:33:56,213  [INFO    ]    ↳ Saved: recovered_0218.jpg  (3,583 bytes)
+2026-05-25 02:33:56,214  [INFO    ]  Found EXIF header @ offset 0x6e286b800
+2026-05-25 02:33:56,215  [INFO    ]    ↳ Saved: recovered_0219.jpg  (6,878 bytes)
+2026-05-25 02:33:56,217  [INFO    ]  Found EXIF header @ offset 0x6e2873000
+2026-05-25 02:33:56,218  [INFO    ]    ↳ Saved: recovered_0220.jpg  (6,846 bytes)
+2026-05-25 02:33:56,220  [INFO    ]  Found EXIF header @ offset 0x6e287a800
+2026-05-25 02:33:56,220  [INFO    ]    ↳ Saved: recovered_0221.jpg  (3,867 bytes)
+2026-05-25 02:33:56,221  [INFO    ]  Found EXIF header @ offset 0x6e2881800
+2026-05-25 02:33:56,222  [INFO    ]    ↳ Saved: recovered_0222.jpg  (7,582 bytes)
+2026-05-25 02:33:56,224  [INFO    ]  Found EXIF header @ offset 0x6e288a000
+2026-05-25 02:33:56,224  [INFO    ]    ↳ Saved: recovered_0223.jpg  (3,367 bytes)
+2026-05-25 02:33:56,227  [INFO    ]  Found EXIF header @ offset 0x6e2890000
+2026-05-25 02:33:56,227  [INFO    ]    ↳ Saved: recovered_0224.jpg  (6,583 bytes)
+2026-05-25 02:33:56,229  [INFO    ]  Found EXIF header @ offset 0x6e2897800
+2026-05-25 02:33:56,230  [INFO    ]    ↳ Saved: recovered_0225.jpg  (6,738 bytes)
+2026-05-25 02:33:56,231  [INFO    ]  Found EXIF header @ offset 0x6e289f000
+2026-05-25 02:33:56,231  [INFO    ]    ↳ Saved: recovered_0226.jpg  (3,408 bytes)
+2026-05-25 02:33:56,233  [INFO    ]  Found EXIF header @ offset 0x6e28a5000
+2026-05-25 02:33:56,233  [INFO    ]    ↳ Saved: recovered_0227.jpg  (3,475 bytes)
+2026-05-25 02:33:56,234  [INFO    ]  Found EXIF header @ offset 0x6e28ab800
+2026-05-25 02:33:56,235  [INFO    ]    ↳ Saved: recovered_0228.jpg  (4,086 bytes)
+2026-05-25 02:33:56,237  [INFO    ]  Found EXIF header @ offset 0x6e28b3000
+2026-05-25 02:33:56,238  [INFO    ]    ↳ Saved: recovered_0229.jpg  (6,662 bytes)
+2026-05-25 02:33:56,239  [INFO    ]  Found EXIF header @ offset 0x6e28ba800
+2026-05-25 02:33:56,240  [INFO    ]    ↳ Saved: recovered_0230.jpg  (3,239 bytes)
+2026-05-25 02:33:56,241  [INFO    ]  Found EXIF header @ offset 0x6e28c0800
+2026-05-25 02:33:56,242  [INFO    ]    ↳ Saved: recovered_0231.jpg  (3,940 bytes)
+2026-05-25 02:33:56,243  [INFO    ]  Found EXIF header @ offset 0x6e28c7800
+2026-05-25 02:33:56,245  [INFO    ]    ↳ Saved: recovered_0232.jpg  (6,710 bytes)
+2026-05-25 02:33:56,246  [INFO    ]  Found EXIF header @ offset 0x6e28cf000
+2026-05-25 02:33:56,247  [INFO    ]    ↳ Saved: recovered_0233.jpg  (3,791 bytes)
+2026-05-25 02:33:56,248  [INFO    ]  Found EXIF header @ offset 0x6e28d6000
+2026-05-25 02:33:56,249  [INFO    ]    ↳ Saved: recovered_0234.jpg  (3,907 bytes)
+2026-05-25 02:33:56,250  [INFO    ]  Found EXIF header @ offset 0x6e28dc800
+2026-05-25 02:33:56,251  [INFO    ]    ↳ Saved: recovered_0235.jpg  (3,239 bytes)
+2026-05-25 02:33:56,252  [INFO    ]  Found EXIF header @ offset 0x6e28e2000
+2026-05-25 02:33:56,254  [INFO    ]    ↳ Saved: recovered_0236.jpg  (3,692 bytes)
+2026-05-25 02:33:56,255  [INFO    ]  Found EXIF header @ offset 0x6e28e8000
+2026-05-25 02:33:56,256  [INFO    ]    ↳ Saved: recovered_0237.jpg  (6,516 bytes)
+2026-05-25 02:33:56,257  [INFO    ]  Found EXIF header @ offset 0x6e28ef800
+2026-05-25 02:33:56,258  [INFO    ]    ↳ Saved: recovered_0238.jpg  (3,646 bytes)
+2026-05-25 02:33:56,259  [INFO    ]  Found EXIF header @ offset 0x6e28f7800
+2026-05-25 02:33:56,261  [INFO    ]    ↳ Saved: recovered_0239.jpg  (3,841 bytes)
+2026-05-25 02:33:56,262  [INFO    ]  Found EXIF header @ offset 0x6e28fe000
+2026-05-25 02:33:56,263  [INFO    ]    ↳ Saved: recovered_0240.jpg  (6,818 bytes)
+2026-05-25 02:33:56,264  [INFO    ]  Found EXIF header @ offset 0x6e2905800
+2026-05-25 02:33:56,266  [INFO    ]    ↳ Saved: recovered_0241.jpg  (7,047 bytes)
+2026-05-25 02:33:56,266  [INFO    ]  Found EXIF header @ offset 0x6e290d800
+2026-05-25 02:33:56,268  [INFO    ]    ↳ Saved: recovered_0242.jpg  (3,327 bytes)
+2026-05-25 02:33:56,269  [INFO    ]  Found EXIF header @ offset 0x6e2914000
+2026-05-25 02:33:56,269  [INFO    ]    ↳ Saved: recovered_0243.jpg  (6,948 bytes)
+2026-05-25 02:33:56,270  [INFO    ]  Found EXIF header @ offset 0x6e291b800
+2026-05-25 02:33:56,272  [INFO    ]    ↳ Saved: recovered_0244.jpg  (6,713 bytes)
+2026-05-25 02:33:56,274  [INFO    ]  Found EXIF header @ offset 0x6e2923000
+2026-05-25 02:33:56,274  [INFO    ]    ↳ Saved: recovered_0245.jpg  (7,013 bytes)
+2026-05-25 02:33:56,276  [INFO    ]  Found EXIF header @ offset 0x6e292b000
+2026-05-25 02:33:56,277  [INFO    ]    ↳ Saved: recovered_0246.jpg  (6,641 bytes)
+2026-05-25 02:33:56,278  [INFO    ]  Found EXIF header @ offset 0x6e2932800
+2026-05-25 02:33:56,278  [INFO    ]    ↳ Saved: recovered_0247.jpg  (6,659 bytes)
+2026-05-25 02:33:56,280  [INFO    ]  Found EXIF header @ offset 0x6e293a000
+2026-05-25 02:33:56,281  [INFO    ]    ↳ Saved: recovered_0248.jpg  (3,600 bytes)
+2026-05-25 02:33:56,282  [INFO    ]  Found EXIF header @ offset 0x6e2940000
+2026-05-25 02:33:56,284  [INFO    ]    ↳ Saved: recovered_0249.jpg  (6,751 bytes)
+2026-05-25 02:33:56,285  [INFO    ]  Found EXIF header @ offset 0x6e2947800
+2026-05-25 02:33:56,286  [INFO    ]    ↳ Saved: recovered_0250.jpg  (4,114 bytes)
+2026-05-25 02:33:56,287  [INFO    ]  Found EXIF header @ offset 0x6e294e800
+2026-05-25 02:33:56,287  [INFO    ]    ↳ Saved: recovered_0251.jpg  (4,466 bytes)
+2026-05-25 02:33:56,289  [INFO    ]  Found EXIF header @ offset 0x6e2956000
+2026-05-25 02:33:56,290  [INFO    ]    ↳ Saved: recovered_0252.jpg  (6,752 bytes)
+2026-05-25 02:33:56,291  [INFO    ]  Found EXIF header @ offset 0x6e295d800
+2026-05-25 02:33:56,292  [INFO    ]    ↳ Saved: recovered_0253.jpg  (3,169 bytes)
+2026-05-25 02:33:56,294  [INFO    ]  Found EXIF header @ offset 0x6e2963000
+2026-05-25 02:33:56,294  [INFO    ]    ↳ Saved: recovered_0254.jpg  (3,527 bytes)
+2026-05-25 02:33:56,296  [INFO    ]  Found EXIF header @ offset 0x6e2969800
+2026-05-25 02:33:56,297  [INFO    ]    ↳ Saved: recovered_0255.jpg  (7,118 bytes)
+2026-05-25 02:33:56,298  [INFO    ]  Found EXIF header @ offset 0x6e2972000
+2026-05-25 02:33:56,299  [INFO    ]    ↳ Saved: recovered_0256.jpg  (7,228 bytes)
+2026-05-25 02:33:56,300  [INFO    ]  Found EXIF header @ offset 0x6e297a800
+2026-05-25 02:33:56,301  [INFO    ]    ↳ Saved: recovered_0257.jpg  (3,297 bytes)
+2026-05-25 02:33:56,303  [INFO    ]  Found EXIF header @ offset 0x6e2981000
+2026-05-25 02:33:56,303  [INFO    ]    ↳ Saved: recovered_0258.jpg  (3,719 bytes)
+2026-05-25 02:33:56,305  [INFO    ]  Found EXIF header @ offset 0x6e2987800
+2026-05-25 02:33:56,305  [INFO    ]    ↳ Saved: recovered_0259.jpg  (7,519 bytes)
+2026-05-25 02:33:56,307  [INFO    ]  Found EXIF header @ offset 0x6e2990800
+2026-05-25 02:33:56,308  [INFO    ]    ↳ Saved: recovered_0260.jpg  (7,268 bytes)
+2026-05-25 02:33:56,310  [INFO    ]  Found EXIF header @ offset 0x6e2999000
+2026-05-25 02:33:56,310  [INFO    ]    ↳ Saved: recovered_0261.jpg  (3,682 bytes)
+2026-05-25 02:33:56,312  [INFO    ]  Found EXIF header @ offset 0x6e299e800
+2026-05-25 02:33:56,312  [INFO    ]    ↳ Saved: recovered_0262.jpg  (3,600 bytes)
+2026-05-25 02:33:56,314  [INFO    ]  Found EXIF header @ offset 0x6e29a5000
+2026-05-25 02:33:56,316  [INFO    ]    ↳ Saved: recovered_0263.jpg  (7,047 bytes)
+2026-05-25 02:33:56,317  [INFO    ]  Found EXIF header @ offset 0x6e29ad800
+2026-05-25 02:33:56,318  [INFO    ]    ↳ Saved: recovered_0264.jpg  (3,166 bytes)
+2026-05-25 02:33:56,319  [INFO    ]  Found EXIF header @ offset 0x6e29b3800
+2026-05-25 02:33:56,320  [INFO    ]    ↳ Saved: recovered_0265.jpg  (7,428 bytes)
+2026-05-25 02:33:56,321  [INFO    ]  Found EXIF header @ offset 0x6e29bc800
+2026-05-25 02:33:56,322  [INFO    ]    ↳ Saved: recovered_0266.jpg  (4,066 bytes)
+2026-05-25 02:33:56,323  [INFO    ]  Found EXIF header @ offset 0x6e29c3000
+2026-05-25 02:33:56,325  [INFO    ]    ↳ Saved: recovered_0267.jpg  (6,976 bytes)
+2026-05-25 02:33:56,327  [INFO    ]  Found EXIF header @ offset 0x6e29cb000
+2026-05-25 02:33:56,328  [INFO    ]    ↳ Saved: recovered_0268.jpg  (6,616 bytes)
+2026-05-25 02:33:56,329  [INFO    ]  Found EXIF header @ offset 0x6e29d2800
+2026-05-25 02:33:56,330  [INFO    ]    ↳ Saved: recovered_0269.jpg  (6,708 bytes)
+2026-05-25 02:33:56,332  [INFO    ]  Found EXIF header @ offset 0x6e29da000
+2026-05-25 02:33:56,332  [INFO    ]    ↳ Saved: recovered_0270.jpg  (6,543 bytes)
+2026-05-25 02:33:56,333  [INFO    ]  Found EXIF header @ offset 0x6e29e1800
+2026-05-25 02:33:56,334  [INFO    ]    ↳ Saved: recovered_0271.jpg  (3,664 bytes)
+2026-05-25 02:33:56,334  [INFO    ]  Found EXIF header @ offset 0x6e29e7800
+2026-05-25 02:33:56,337  [INFO    ]    ↳ Saved: recovered_0272.jpg  (3,135 bytes)
+2026-05-25 02:33:56,337  [INFO    ]  Found EXIF header @ offset 0x6e29ed000
+2026-05-25 02:33:56,338  [INFO    ]    ↳ Saved: recovered_0273.jpg  (3,232 bytes)
+2026-05-25 02:33:56,339  [INFO    ]  Found EXIF header @ offset 0x6e29f3000
+2026-05-25 02:33:56,340  [INFO    ]    ↳ Saved: recovered_0274.jpg  (6,194 bytes)
+2026-05-25 02:33:56,342  [INFO    ]  Found EXIF header @ offset 0x6e29fa000
+2026-05-25 02:33:56,342  [INFO    ]    ↳ Saved: recovered_0275.jpg  (6,766 bytes)
+2026-05-25 02:33:56,344  [INFO    ]  Found EXIF header @ offset 0x6e2a01800
+2026-05-25 02:33:56,344  [INFO    ]    ↳ Saved: recovered_0276.jpg  (3,187 bytes)
+2026-05-25 02:33:56,347  [INFO    ]  Found EXIF header @ offset 0x6e2a08000
+2026-05-25 02:33:56,347  [INFO    ]    ↳ Saved: recovered_0277.jpg  (6,676 bytes)
+2026-05-25 02:33:56,348  [INFO    ]  Found EXIF header @ offset 0x6e2a0f800
+2026-05-25 02:33:56,349  [INFO    ]    ↳ Saved: recovered_0278.jpg  (3,886 bytes)
+2026-05-25 02:33:56,351  [INFO    ]  Found EXIF header @ offset 0x6e2a16800
+2026-05-25 02:33:56,352  [INFO    ]    ↳ Saved: recovered_0279.jpg  (3,092 bytes)
+2026-05-25 02:33:56,353  [INFO    ]  Found EXIF header @ offset 0x6e2a1c000
+2026-05-25 02:33:56,354  [INFO    ]    ↳ Saved: recovered_0280.jpg  (4,028 bytes)
+2026-05-25 02:33:56,355  [INFO    ]  Found EXIF header @ offset 0x6e2a23000
+2026-05-25 02:33:56,356  [INFO    ]    ↳ Saved: recovered_0281.jpg  (3,436 bytes)
+2026-05-25 02:33:56,357  [INFO    ]  Found EXIF header @ offset 0x6e2a29000
+2026-05-25 02:33:56,358  [INFO    ]    ↳ Saved: recovered_0282.jpg  (6,407 bytes)
+2026-05-25 02:33:56,359  [INFO    ]  Found EXIF header @ offset 0x6e2a30800
+2026-05-25 02:33:56,360  [INFO    ]    ↳ Saved: recovered_0283.jpg  (8,165 bytes)
+2026-05-25 02:33:56,362  [INFO    ]  Found EXIF header @ offset 0x6e2a3a000
+2026-05-25 02:33:56,363  [INFO    ]    ↳ Saved: recovered_0284.jpg  (3,596 bytes)
+2026-05-25 02:33:56,365  [INFO    ]  Found EXIF header @ offset 0x6e2a40800
+2026-05-25 02:33:56,366  [INFO    ]    ↳ Saved: recovered_0285.jpg  (6,701 bytes)
+2026-05-25 02:33:56,367  [INFO    ]  Found EXIF header @ offset 0x6e2a48000
+2026-05-25 02:33:56,368  [INFO    ]    ↳ Saved: recovered_0286.jpg  (3,671 bytes)
+2026-05-25 02:33:56,369  [INFO    ]  Found EXIF header @ offset 0x6e2a4e800
+2026-05-25 02:33:56,370  [INFO    ]    ↳ Saved: recovered_0287.jpg  (4,013 bytes)
+2026-05-25 02:33:56,372  [INFO    ]  Found EXIF header @ offset 0x6e2a55000
+2026-05-25 02:33:56,372  [INFO    ]    ↳ Saved: recovered_0288.jpg  (6,390 bytes)
+2026-05-25 02:33:56,374  [INFO    ]  Found EXIF header @ offset 0x6e2a5c800
+2026-05-25 02:33:56,374  [INFO    ]    ↳ Saved: recovered_0289.jpg  (6,125 bytes)
+2026-05-25 02:33:56,375  [INFO    ]  Found EXIF header @ offset 0x6e2a63800
+2026-05-25 02:33:56,377  [INFO    ]    ↳ Saved: recovered_0290.jpg  (3,893 bytes)
+2026-05-25 02:33:57,306  [INFO    ]  Found JFIF header @ offset 0x6e3cf4340
+2026-05-25 02:33:57,340  [INFO    ]    ↳ Saved: recovered_0291.jpg  (728,559 bytes)
+2026-05-25 02:33:59,245  [INFO    ]  Found EXIF header @ offset 0x6e6449826
+2026-05-25 02:33:59,246  [INFO    ]    ↳ Saved: recovered_0292.jpg  (2,348 bytes)
+2026-05-25 02:34:58,265  [INFO    ]  Found JFIF header @ offset 0x731507766
+2026-05-25 02:34:58,265  [WARNING ]    ↳ File only 257 bytes (min 1024) — skipping
+2026-05-25 02:34:59,378  [INFO    ]  Found JFIF header @ offset 0x732b5e766
+2026-05-25 02:34:59,378  [WARNING ]    ↳ File only 257 bytes (min 1024) — skipping
+2026-05-25 02:35:33,590  [INFO    ]  Found JFIF header @ offset 0x75e3a8dd2
+2026-05-25 02:35:33,591  [INFO    ]    ↳ Saved: recovered_0293.jpg  (11,131 bytes)
+2026-05-25 02:35:42,120  [INFO    ]  Found JFIF header @ offset 0x7692f3e2c
+2026-05-25 02:35:42,123  [INFO    ]    ↳ Saved: recovered_0294.jpg  (13,093 bytes)
+2026-05-25 02:36:32,491  [INFO    ]  Found JFIF header @ offset 0x7a967c62e
+2026-05-25 02:36:32,493  [INFO    ]    ↳ Saved: recovered_0295.jpg  (4,076 bytes)
+2026-05-25 02:37:31,839  [INFO    ]  Found EXIF header @ offset 0x7f5124813
+2026-05-25 02:37:31,844  [INFO    ]    ↳ Saved: recovered_0296.jpg  (55,404 bytes)
+2026-05-25 02:37:37,250  [INFO    ]  Found JFIF header @ offset 0x7fbfb337f
+2026-05-25 02:37:37,250  [WARNING ]    ↳ File only 26 bytes (min 1024) — skipping
+2026-05-25 02:37:41,704  [INFO    ]  Found JFIF header @ offset 0x801bc049e
+2026-05-25 02:37:41,707  [INFO    ]    ↳ Saved: recovered_0297.jpg  (32,275 bytes)
+2026-05-25 02:38:20,300  [INFO    ]  Found JFIF header @ offset 0x832e4fe70
+2026-05-25 02:38:20,301  [INFO    ]    ↳ Saved: recovered_0298.jpg  (12,915 bytes)
+2026-05-25 02:40:18,490  [INFO    ]  Found JFIF header @ offset 0x8c9619e1e
+2026-05-25 02:40:18,495  [INFO    ]    ↳ Saved: recovered_0299.jpg  (104,506 bytes)
+2026-05-25 02:41:05,280  [INFO    ]  Found JFIF header @ offset 0x904fa7e3e
+2026-05-25 02:41:05,280  [ERROR   ]  I/O error on '\\.\H:': [Errno 22] Invalid argument
